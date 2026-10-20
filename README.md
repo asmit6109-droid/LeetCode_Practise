@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
