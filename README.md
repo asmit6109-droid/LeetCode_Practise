@@ -52,10 +52,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0344-reverse-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -87,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0014-longest-common-prefix) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
