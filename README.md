@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
