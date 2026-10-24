@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0069-sqrtx) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Array
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
 ## Linked List
 |  |
@@ -94,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
