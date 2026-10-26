@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
@@ -55,11 +56,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Dynamic Programming
@@ -105,4 +108,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0278-first-bad-version) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
