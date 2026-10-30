@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0069-sqrtx) |
+| [0509-fibonacci-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Array
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -131,4 +133,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
