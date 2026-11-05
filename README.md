@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1672-richest-customer-wealth) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Linked List
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0344-reverse-string) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
