@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0567-permutation-in-string) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Prefix Sum
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0567-permutation-in-string) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 ## Counting
 |  |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
+| [0567-permutation-in-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0567-permutation-in-string) |
 ## String Matching
 |  |
 | ------- |
@@ -189,4 +192,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
