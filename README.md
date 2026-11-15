@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1920-build-array-from-permutation) |
 ## Hash Table
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |
