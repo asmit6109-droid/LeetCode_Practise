@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0283-move-zeroes) |
 | [0682-baseball-game](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0739-daily-temperatures) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -201,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0567-permutation-in-string) |
 | [3364-minimum-positive-sum-subarray](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3364-minimum-positive-sum-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
