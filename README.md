@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0567-permutation-in-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## String Matching
 |  |
 | ------- |
