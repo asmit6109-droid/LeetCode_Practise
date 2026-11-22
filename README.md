@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1920-build-array-from-permutation) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3364-minimum-positive-sum-subarray) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -217,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0739-daily-temperatures) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
