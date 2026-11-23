@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3364-minimum-positive-sum-subarray) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0704-binary-search) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Linked List
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0169-majority-element) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
