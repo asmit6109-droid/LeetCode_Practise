@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/0509-fibonacci-number) |
 | [1512-number-of-good-pairs](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/1512-number-of-good-pairs) |
+| [2769-find-the-maximum-achievable-number](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/2769-find-the-maximum-achievable-number) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asmit6109-droid/LeetCode_Practise/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
